@@ -3,6 +3,8 @@
 # Fraud Detection Performance Testing of Pick-and-Choose Graph Neural Network (PC-GNN)
 •	Fraud Detection – Graph Neural Network Analysis
 
+This project aimed to understand the mechanism of a cutting-edge graph neural network model, the Pick-and-Choose GNN (PC-GNN), and evaluate its effectiveness in fraud detection. We collected several fraud detection datasets with different relational characteristics to test the model's performance. Our findings showed that PC-GNN efficiently and accurately identified fraud when interactions between entities were dense. However, when entities were connected primarily through similarity-based relationships, the model struggled to effectively learn data features, significantly reducing its fraud detection capability. Therefore, the effectiveness of this model in fraud detection relies heavily on the user's understanding of the relationships between entities and the ability to construct a meaningful relational data structure.
+
 [Fraud Detection Performance Testing of PC-GNN (code and report)](https://github.com/YahanCong/data586_pcgnn.git)
 
 # Spatial Analysis and Predictive Modeling of Coyote Distribution in British Columbia     
