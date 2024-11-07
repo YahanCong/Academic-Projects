@@ -1,4 +1,4 @@
-# Academic-Projects
+# Academic Projects Profile
 
 ### Project 1: Fraud Detection Performance Testing of Pick-and-Choose Graph Neural Network (PC-GNN)
 [Fraud Detection Performance Testing of PC-GNN (code and report)](https://github.com/YahanCong/data586_pcgnn.git)
@@ -11,4 +11,6 @@
 
 [Heroku link for NYC housing price dashboard](https://nyc-b429e9209531.herokuapp.com/)
 
+### Project 4: Seoul Bike-Sharing System Demand Forecasting and Operational Status Prediction
+[Seoul Bike-Sharing System Analysis](https://github.com/Isawsomethingb4/Seoul-Bike-Sharing-Demand-Analysis.git)
 
