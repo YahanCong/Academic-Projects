@@ -1,4 +1,4 @@
-# Academic Projects Profile
+# Academic Projects 
 
 ### Project 1: Fraud Detection Performance Testing of Pick-and-Choose Graph Neural Network (PC-GNN)
 [Fraud Detection Performance Testing of PC-GNN (code and report)](https://github.com/YahanCong/data586_pcgnn.git)
@@ -14,3 +14,7 @@
 ### Project 4: Seoul Bike-Sharing System Demand Forecasting and Operational Status Prediction
 [Seoul Bike-Sharing System Analysis](https://github.com/Isawsomethingb4/Seoul-Bike-Sharing-Demand-Analysis.git)
 
+### Project 5: Python Package for Orchard Inventory and Financial Management
+[Orchard Package](https://github.com/YahanCong/data533_project3.git)
+
+[Pypi Package Link](https://pypi.org/project/orchardmanagementCL/)
