@@ -9,6 +9,7 @@ This project aimed to understand the mechanism of a cutting-edge graph neural ne
 
 # Spatial Analysis and Predictive Modeling of Coyote Distribution in British Columbia     
 •	Spatial Statistical Analysis of Coyote
+
 This project aimed to explore the spatial distribution of coyotes in British Columbia and identify key environmental factors influencing their distribution. For this project, I collected geographic distribution data on coyotes in BC and conducted exploratory data analysis using tools such as heatmaps and pair correlation functions (PCF) to gain initial insights into distribution patterns and clustering. Next, to investigate the primary factors affecting coyote distribution, I applied spatial modeling and developed a Generalized Additive Model (GAM) based on environmental variables. The analysis revealed that the most influential factors were water distance and the Human Footprint Index. Additionally, the model achieved a high level of accuracy in predicting coyote distribution patterns.
 
 [Spatial Analysis of Coyote(code and report)](https://github.com/YahanCong/data589project.git)
