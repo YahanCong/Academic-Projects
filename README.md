@@ -32,7 +32,12 @@ Next, we developed predictive models for both system availability and bike renta
 
 [Seoul Bike-Sharing System Analysis](https://github.com/Isawsomethingb4/Seoul-Bike-Sharing-Demand-Analysis.git)
 
-### Project 5: Python Package for Orchard Inventory and Financial Management
+# Python Package for Orchard Inventory and Financial Management
+
+This project involves developing an Orchard Management Package in Python to streamline various aspects of orchard business operations, including fruit production, inventory, and sales. The package comprises two main components: a Production module and a Management module. The Production module stores crop information, calculates fruit prices, and manages planting areas. The Management module facilitates inventory tracking, sales order storage, and financial information management, with automatic time series chart generation for historical inventory data using matplotlib. Data manipulation within the package is handled by the pandas library.
+
+The project is managed on GitHub with continuous integration and testing conducted through Travis CI.
+
 [Orchard Package (GitHub)](https://github.com/YahanCong/data533_project3.git)
 
 [Pypi Package Link](https://pypi.org/project/orchardmanagementCL/)
