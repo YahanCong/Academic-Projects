@@ -12,7 +12,7 @@ This project aimed to understand the mechanism of a cutting-edge graph neural ne
 
 This project aimed to explore the spatial distribution of coyotes in British Columbia and identify key environmental factors influencing their distribution. For this project, I collected geographic distribution data on coyotes in BC and conducted exploratory data analysis using tools such as heatmaps and pair correlation functions (PCF) to gain initial insights into distribution patterns and clustering. Next, to investigate the primary factors affecting coyote distribution, I applied spatial modeling and developed a Generalized Additive Model (GAM) based on environmental variables. The analysis revealed that the most influential factors were water distance and the Human Footprint Index. Additionally, the model achieved a high level of accuracy in predicting coyote distribution patterns.
 
-[Spatial Analysis of Coyote(code and report)](https://github.com/YahanCong/data589project.git)
+[Spatial Analysis of Coyote Report](https://github.com/YahanCong/data589project/blob/main/DATA589_Project_Spatial_Analysis_of_Coyotes.pdf)
 
 # Real Estate Dashboard Development for NYC Investors and Homebuyers
 
