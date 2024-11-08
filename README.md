@@ -19,7 +19,12 @@ This project aimed to explore the spatial distribution of coyotes in British Col
 
 [Heroku link for NYC housing price dashboard](https://nyc-b429e9209531.herokuapp.com/)
 
-### Project 4: Seoul Bike-Sharing System Demand Forecasting and Operational Status Prediction
+# Seoul Bike-Sharing System Demand Forecasting and Operational Status Prediction
+
+This project aimed to understand how factors such as weather, seasons, and holidays influence the operational status and rental demand of Seoul's bike-sharing system. To gain an initial understanding, we conducted exploratory data analysis (EDA) to observe trends in system availability and rental demand under different weather conditions and on weekdays versus holidays. Additionally, we performed a time series analysis on bike rentals to assess the presence of strong seasonal or daily cycles.
+
+Next, we developed predictive models for both system availability and bike rental demand. For predicting system operational status, we built a Gradient Boosting classification model, which successfully forecasted whether the bike-sharing system would be open or closed. Observing a strong daily cycle in demand from our EDA, we constructed a Long Short-Term Memory (LSTM) Neural Network model to forecast hourly bike demand. Our LSTM model accurately predicted bike demand based on current weather conditions and rental data from the previous day.
+
 [Seoul Bike-Sharing System Analysis](https://github.com/Isawsomethingb4/Seoul-Bike-Sharing-Demand-Analysis.git)
 
 ### Project 5: Python Package for Orchard Inventory and Financial Management
