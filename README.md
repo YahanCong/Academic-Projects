@@ -28,7 +28,7 @@ To give users a broader perspective on city-wide housing prices, we created char
 
 # Seoul Bike-Sharing System Demand Forecasting and Operational Status Prediction
 
-•	Classification of Bike-Sharing Operation and prediction of hourly bike rental demand.
+•	Classification of Bike-Sharing Operation and prediction of hourly bike rental amount.
 
 This project aimed to understand how factors such as weather, seasons, and holidays influence the operational status and rental demand of Seoul's bike-sharing system. To gain an initial understanding, we conducted exploratory data analysis (EDA) to observe trends in system availability and rental demand under different weather conditions and on weekdays versus holidays. Additionally, we performed a time series analysis on bike rentals to assess the presence of strong seasonal or daily cycles.
 
