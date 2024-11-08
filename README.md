@@ -16,6 +16,8 @@ This project aimed to explore the spatial distribution of coyotes in British Col
 
 # Real Estate Dashboard Development for NYC Investors and Homebuyers
 
+•	Dashboard development of New York City's housing price
+
 This project aimed to design an intuitive and comprehensive dashboard to display real estate information for New York City. To provide users with a clear understanding of properties currently on the market, we developed an interactive map of New York City. By clicking on property icons, users can easily view details such as location, price, and type of property. We also integrated Google API functionality into the map, enabling users to explore the surrounding area, including the distribution of amenities like shopping centers and parks.
 
 To give users a broader perspective on city-wide housing prices, we created charts displaying price distributions by region and property type, allowing users to quickly understand the typical price range for properties they are interested in. Additionally, we included information on major real estate agencies in each area to help users connect with local experts. The final dashboard provides users with a convenient, comprehensive view of essential information for purchasing a home, from property details and neighborhood planning to price distributions and buying channels, supporting informed and rational investment decisions.
@@ -25,6 +27,8 @@ To give users a broader perspective on city-wide housing prices, we created char
 [Heroku link for NYC housing price dashboard](https://nyc-b429e9209531.herokuapp.com/)
 
 # Seoul Bike-Sharing System Demand Forecasting and Operational Status Prediction
+
+•	Classification of Bike-Sharing Operation and prediction of hourly bike rental demand.
 
 This project aimed to understand how factors such as weather, seasons, and holidays influence the operational status and rental demand of Seoul's bike-sharing system. To gain an initial understanding, we conducted exploratory data analysis (EDA) to observe trends in system availability and rental demand under different weather conditions and on weekdays versus holidays. Additionally, we performed a time series analysis on bike rentals to assess the presence of strong seasonal or daily cycles.
 
